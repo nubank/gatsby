@@ -8,7 +8,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^1.6.0",
     "babel-runtime": "^6.26.0",
     "bluebird": "^3.5.0",
     "deep-map": "^1.5.0",
